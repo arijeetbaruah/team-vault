@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9f5a254e4d68f54d",
+        "id": "4465c56a1265b992",
         "type": "tabs",
         "children": [
           {
-            "id": "bd9b1278c91a009d",
+            "id": "8a38f2fd631bbced",
             "type": "leaf",
             "state": {
               "type": "operon-table-file-view",
@@ -22,8 +22,30 @@
               "icon": "table-2",
               "title": "Default table"
             }
+          },
+          {
+            "id": "d965b86f4b379f4c",
+            "type": "leaf",
+            "state": {
+              "type": "operon-kanban-view",
+              "state": {
+                "forceMobileLayout": false,
+                "presetId": "kanban-preset-default",
+                "searchQuery": "",
+                "collapsedStatusIds": [],
+                "collapsedLaneKeys": [],
+                "collapsedStatusIdsByPreset": {},
+                "collapsedLaneKeysByPreset": {},
+                "collapsedStatusIdsByScope": {},
+                "collapsedLaneKeysByScope": {},
+                "expandedPreviewParentIds": []
+              },
+              "icon": "square-kanban",
+              "title": "My First Kanban Board"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,20 +207,22 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
       "operon:Create New Operon Task": false,
       "operon:Operon Filter View": false,
       "operon:Task Finder": false,
       "operon:Operon Calendar": false,
       "operon:Operon Kanban": false,
       "operon:Operon Table": false,
-      "operon:Open Pinned Tasks": false,
-      "obsidian-git:Open Git source control": false
+      "operon:Open Pinned Tasks": false
     }
   },
-  "active": "bd9b1278c91a009d",
+  "active": "d965b86f4b379f4c",
   "lastOpenFiles": [
-    "Operon/Tasks/Test.md",
+    "Operon/Tasks/Sub Tash.md",
+    "Operon/Tables/Default table 2.table",
     "Operon/Tables/Default table.table",
+    "Operon/Tasks/Test.md",
     "Operon/Tasks/Untitled.md",
     "Welcome.md",
     "Untitled.base",
