@@ -19,8 +19,8 @@
                 "scrollTop": 0,
                 "scrollLeft": 0
               },
-              "icon": "table-2",
-              "title": "Default table"
+              "icon": "lucide-ghost",
+              "title": "operon-table-file-view"
             }
           },
           {
@@ -34,8 +34,8 @@
                 "scrollTop": 0,
                 "scrollLeft": 0
               },
-              "icon": "table-2",
-              "title": "Default table"
+              "icon": "lucide-ghost",
+              "title": "operon-table-view"
             }
           },
           {
@@ -245,6 +245,8 @@
   },
   "active": "3d155ae223f31ca9",
   "lastOpenFiles": [
+    "Operon/Tasks/this is auto synced.md",
+    "Welcome.md",
     "Operon/Tasks/Test the Game.md",
     "Operon/Tables/Default table.table",
     "Readme (1).md",
@@ -254,7 +256,6 @@
     "Operon/Tables/Default table 2.table",
     "Operon/Tasks/Test.md",
     "Operon/Tasks/Untitled.md",
-    "Welcome.md",
     "Untitled.base",
     "Operon/Tasks",
     "Operon/Tables",
