@@ -2963,7 +2963,12 @@
 	"state": {
 		"pinnedTasks": {
 			"version": 2,
-			"itemsById": {}
+			"itemsById": {
+				"d1lcju4": {
+					"pinned": true,
+					"updatedAt": "2026-10-24T09:45:58.959Z"
+				}
+			}
 		}
 	}
 }
