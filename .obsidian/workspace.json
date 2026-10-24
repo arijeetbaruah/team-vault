@@ -19,8 +19,8 @@
                 "scrollTop": 0,
                 "scrollLeft": 0
               },
-              "icon": "table-2",
-              "title": "Default table"
+              "icon": "lucide-ghost",
+              "title": "operon-table-file-view"
             }
           },
           {
@@ -219,6 +219,8 @@
   },
   "active": "d965b86f4b379f4c",
   "lastOpenFiles": [
+    "Readme.md",
+    "ReadMe.md",
     "Operon/Tasks/Sub Tash.md",
     "Operon/Tables/Default table 2.table",
     "Operon/Tables/Default table.table",
