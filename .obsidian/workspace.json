@@ -191,7 +191,8 @@
       "operon:Operon Calendar": false,
       "operon:Operon Kanban": false,
       "operon:Operon Table": false,
-      "operon:Open Pinned Tasks": false
+      "operon:Open Pinned Tasks": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "bd9b1278c91a009d",
