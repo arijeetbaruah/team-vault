@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "42dbe92a4b90d887",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f5a254e4d68f54d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd9b1278c91a009d",
+            "type": "leaf",
+            "state": {
+              "type": "operon-table-file-view",
+              "state": {
+                "file": "Operon/Tables/Default table.table",
+                "presetId": "table-preset-my-first-table",
+                "searchQuery": "",
+                "scrollTop": 0,
+                "scrollLeft": 0
+              },
+              "icon": "table-2",
+              "title": "Default table"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4bb06b5995563dbd",
+    "type": "split",
+    "children": [
+      {
+        "id": "78f651fa7efc72c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5303af39747fc6b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "666a4366c9111b53",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "57b8c21a5d90a94a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fce97d1d0a7b1a08",
+    "type": "split",
+    "children": [
+      {
+        "id": "47bc24b62efa5de3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ad16f02dc5c20d7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Operon/Tables/Default table.table",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Default table"
+            }
+          },
+          {
+            "id": "58e6e57644bb28f2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Operon/Tables/Default table.table",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Default table"
+            }
+          },
+          {
+            "id": "7d3221d737275cb9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c1908926bfc5e8d8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Operon/Tables/Default table.table",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Default table"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "operon:Create New Operon Task": false,
+      "operon:Operon Filter View": false,
+      "operon:Task Finder": false,
+      "operon:Operon Calendar": false,
+      "operon:Operon Kanban": false,
+      "operon:Operon Table": false,
+      "operon:Open Pinned Tasks": false
+    }
+  },
+  "active": "5303af39747fc6b0",
+  "lastOpenFiles": [
+    "Operon/Tasks/Test.md",
+    "Operon/Tables/Default table.table",
+    "Operon/Tasks/Untitled.md",
+    "Welcome.md",
+    "Untitled.base",
+    "Operon/Tasks",
+    "Operon/Tables",
+    "Operon"
+  ]
+}
