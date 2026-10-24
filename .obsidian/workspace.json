@@ -19,12 +19,27 @@
                 "scrollTop": 0,
                 "scrollLeft": 0
               },
-              "icon": "lucide-ghost",
-              "title": "operon-table-file-view"
+              "icon": "table-2",
+              "title": "Default table"
             }
           },
           {
-            "id": "d965b86f4b379f4c",
+            "id": "8d28f8eec0c01bdc",
+            "type": "leaf",
+            "state": {
+              "type": "operon-table-view",
+              "state": {
+                "presetId": "table-preset-my-first-table",
+                "searchQuery": "",
+                "scrollTop": 0,
+                "scrollLeft": 0
+              },
+              "icon": "table-2",
+              "title": "Default table"
+            }
+          },
+          {
+            "id": "3d155ae223f31ca9",
             "type": "leaf",
             "state": {
               "type": "operon-kanban-view",
@@ -36,8 +51,12 @@
                 "collapsedLaneKeys": [],
                 "collapsedStatusIdsByPreset": {},
                 "collapsedLaneKeysByPreset": {},
-                "collapsedStatusIdsByScope": {},
-                "collapsedLaneKeysByScope": {},
+                "collapsedStatusIdsByScope": {
+                  "kanban-preset-default::pl_project": []
+                },
+                "collapsedLaneKeysByScope": {
+                  "kanban-preset-default::pl_project::priority": []
+                },
                 "expandedPreviewParentIds": []
               },
               "icon": "square-kanban",
@@ -45,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +139,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operon/Tables/Default table.table",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +148,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Default table"
+              "title": "Backlinks"
             }
           },
           {
@@ -139,12 +157,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operon/Tables/Default table.table",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Default table"
+              "title": "Outgoing links"
             }
           },
           {
@@ -168,13 +185,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operon/Tables/Default table.table",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Default table"
+              "title": "Outline"
             }
           },
           {
@@ -190,13 +206,23 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "6b0faf9da1075400",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,14 +243,14 @@
       "operon:Open Pinned Tasks": false
     }
   },
-  "active": "d965b86f4b379f4c",
+  "active": "3d155ae223f31ca9",
   "lastOpenFiles": [
+    "Operon/Tables/Default table.table",
     "Readme (1).md",
     "Readme.md",
     "ReadMe.md",
     "Operon/Tasks/Sub Tash.md",
     "Operon/Tables/Default table 2.table",
-    "Operon/Tables/Default table.table",
     "Operon/Tasks/Test.md",
     "Operon/Tasks/Untitled.md",
     "Welcome.md",
