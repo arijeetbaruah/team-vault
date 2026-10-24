@@ -40,7 +40,7 @@
 		"releaseNotesShowOnUpdate": true,
 		"releaseNotesLastShownVersion": "3.10.2",
 		"checkForUpdatesOnStartup": true,
-		"lastNotifiedReleaseVersion": "",
+		"lastNotifiedReleaseVersion": "4.2.0",
 		"operonDocsFolder": "Operon/Docs",
 		"operonDocsAutoUpdateEnabled": false,
 		"operonDocsLastAutoUpdateVersion": "",

@@ -43,7 +43,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -152,6 +154,20 @@
               "icon": "lucide-list",
               "title": "Outline of Default table"
             }
+          },
+          {
+            "id": "c58b1a1120f6b5ce",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
         ]
       }
@@ -178,7 +194,7 @@
       "operon:Open Pinned Tasks": false
     }
   },
-  "active": "5303af39747fc6b0",
+  "active": "bd9b1278c91a009d",
   "lastOpenFiles": [
     "Operon/Tasks/Test.md",
     "Operon/Tables/Default table.table",
